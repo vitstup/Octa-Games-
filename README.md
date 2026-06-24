@@ -1,4 +1,4 @@
-# Octa Games Test Task
+# Octo Games Test Task
 
 ## Задача 1. Coding Principles
 
@@ -24,15 +24,15 @@
 
 ## Задача 2. Save / Load Utility
 
-![Screenshots/1.png](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/1.png)
+![Screenshots/1.png](https://github.com/vitstup/Octo-Games-/blob/master/Screenshots/1.png)
 
 ---
 
 ## Задача 3. Popup / UI System
 
-![Screenshots/2.png](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/2.png)
+![Screenshots/2.png](https://github.com/vitstup/Octo-Games-/blob/master/Screenshots/2.png)
 
-![Screenshots/3.png](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/3.png)
+![Screenshots/3.png](https://github.com/vitstup/Octo-Games-/blob/master/Screenshots/3.png)
 
 ### Подзадача 3.1
 Можно использовать **Horizontal Layout Group**, **Vertical Layout Group**, **Content Size Fitter**.
@@ -49,7 +49,7 @@
 
 ## Задача 4. UI Performance & Refactoring
 
-![Screenshots/4.png](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/4.png)
+![Screenshots/4.png](https://github.com/vitstup/Octo-Games-/blob/master/Screenshots/4.png)
 
 ---
 
@@ -67,8 +67,8 @@
 
 ### Реализация
 
-![Screenshots/5.png](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/5.png)
+![Screenshots/5.png](https://github.com/vitstup/Octo-Games-/blob/master/Screenshots/5.png)
 
-![Screenshots/6.png](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/6.png)
+![Screenshots/6.png](https://github.com/vitstup/Octo-Games-/blob/master/Screenshots/6.png)
 
 > **Примечание:** Здесь представлена довольно простая реализация. В продакшене правильнее будет применить **Event Bus** или, возможно, **UniRx**.
