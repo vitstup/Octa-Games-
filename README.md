@@ -50,7 +50,7 @@
 
 
 
-!\[Save/Load Utility](Screenshots/1.png)
+![(Screenshots/1.png)](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/1.png)
 
 
 
@@ -62,11 +62,11 @@
 
 
 
-!\[Popup System](Screenshots/2.png)
+![(Screenshots/2.png)](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/2.png)
 
 
 
-!\[Popup System](Screenshots/3.png)
+![(Screenshots/3.png)](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/3.png)
 
 
 
@@ -100,7 +100,7 @@
 
 
 
-!\[UI Performance \& Refactoring](Screenshots/4.png)
+![(Screenshots/4.png)](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/4.png)
 
 
 
@@ -136,11 +136,11 @@
 
 
 
-!\[Gameplay / State Logic](Screenshots/5.png)
+![(Screenshots/5.png)](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/5.png)
 
 
 
-!\[Gameplay / State Logic](Screenshots/6.png)
+![(Screenshots/6.png)](https://github.com/vitstup/Octa-Games-/blob/master/Screenshots/6.png)
 
 
 
